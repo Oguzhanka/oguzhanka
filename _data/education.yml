@@ -1,9 +1,9 @@
 - layout: left
   name: Bilkent University, Ankara Turkey
   dates: 2019 - Present
-  qualification: MSc Electrical Engineering
+  qualification: MSc Electrical and Electronics Engineering
   quote: >
     
-  description: > # this will include new lines to allow paragraphs
-    **Supervisor:** Prof. Suleyman Serdar Kozat
+  description: >
+    **Supervisor:** Prof. Suleyman Serdar Kozat\n
     **GPA:** 3.85
