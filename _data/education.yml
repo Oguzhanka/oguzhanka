@@ -4,6 +4,6 @@
   qualification: MSc Electrical Engineering
   quote: >
     
-  description: | # this will include new lines to allow paragraphs
-    Supervisor: Prof. Suleyman Serdar Kozat
-    GPA: 3.85
+  description: > # this will include new lines to allow paragraphs
+    **Supervisor:** Prof. Suleyman Serdar Kozat
+    **GPA:** 3.85
