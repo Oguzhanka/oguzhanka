@@ -6,6 +6,8 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
 ## Publications
 
+### Journal Papers
+
 * **O. Karaahmetoglu**, S. S. Kozat, "Spatio-temporal Sequence Prediction with Point Processes and Self-organizing Decision Trees", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**), <https://arxiv.org/abs/2006.14426>, June 2020
 
 * F. Ilhan, **O. Karaahmetoglu**, I. Balaban, S. S. Kozat, "Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, <https://arxiv.org/abs/2006.10119>, June 2020.
@@ -15,6 +17,18 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 * **O. Karaahmetoglu**, S. F. Tekin, S. S. Kozat, "Distributed Online Multi-Target Tracking With Switching LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, July 2020.
 
 * **O. Karaahmetoglu**, S. S. Kozat, "Nonstationary Time-Series Data Modeling With Switching Point Processes", (Submitted to **IEEE Transactions on Signal Processing**), July 2020.
+
+### Conference Papers
+
+* **O. Karaahmetoglu**, Fatih Irım and S. F. Tekin, "Interpretable Classification And Regression For Time Series Data", (submitted)**IEEE**, 17 January 2020.
+
+* **O. Karaahmetoglu**, and Bilgin Aksoy, "Time Series Prediction With Hierarchical Recurrent Models", (submitted)**IEEE**, 17 January 2020.
+
+### Working Papers
+
+* **O. Karaahmetoglu**, S. F. Tekin and S. S. Kozat, "Image Captioning With Location Embeddings and Self Attention Mechanism", (draft available with permission of supervisor), July 2020.
+
+* **O. Karaahmetoglu**, S. F. Tekin and S. S. Kozat, "Strongly Labeled Simulated Data Generation For Object Recognition Under Different Camera Positions", (draft available with permission of supervisor), July 2020.
 
 ## Education
 
@@ -38,4 +52,15 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
   * Designed a face recognition system based on deep neural architectures.
   * Website: <http://www.darkbluesystems.com/tr/>
 
+## Academic Experience
+
+* **Grader**, Bilkent University, Ankara, Turkey, September 2019 - Present,
+  * EEE 485 (Statistical Learning and Data Analytics) in Spring 2020
+  * EEE 391 (Basics of Signals and Systems) in Fall 2019
+
+* **Undergraduate Researcher**, Bilkent University, Ankara, Turkey September 2017 - August 2019
+  * Online anomaly detection on non-stationary time series data
+
 ## Projects
+
+* 
