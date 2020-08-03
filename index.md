@@ -4,8 +4,15 @@ Hi, I am Oguzhan Karaahmetoglu and I am a Data Scientist. Currently, I pursue my
 
 I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
-### Personal Interests
+# Publications
 
 I love playing Table Tennis aka Ping Pong in my spare time!
 
-[Publications](publications.md)
+# Education
+* MSc Electrical and Electronics Engineering, Bilkent University, Ankara Turkey
+
+* BSc Electrical and Electronics Engineering, Middle East Technical University, Ankara Turkey
+
+# Industrial Experience
+
+# Projects
