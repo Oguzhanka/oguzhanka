@@ -9,7 +9,8 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 I love playing Table Tennis aka Ping Pong in my spare time!
 
 # Education
-* MSc Electrical and Electronics Engineering, Bilkent University, Ankara Turkey
+
+* MSc Electrical and Electronics Engineering, Bilkent University, Ankara Turkey, August 2019 - Present, **Supervisor:** Prof. Suleyman Serdar Kozat, **GPA:** 3.85
 
 * BSc Electrical and Electronics Engineering, Middle East Technical University, Ankara Turkey
 
