@@ -8,6 +8,10 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
 * **O. Karaahmetoglu**, S. S. Kozat, "Spatio-temporal Sequence Prediction with Point Processes and Self-organizing Decision Trees", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**), <https://arxiv.org/abs/2006.14426>, June 2020
 
+* F. Ilhan, **O. Karaahmetoglu**, I. Balaban, S. S. Kozat, "Markovian RNN: An Adaptive Time Series Prediction Network with HMM-based Switching for Nonstationary Environments", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, <https://arxiv.org/abs/2006.10119>, June 2020.
+
+* **O. Karaahmetoglu**, F. Ilhan, I. Balaban, S. S. Kozat, "Unsupervised Online Anomaly Detection On Irregularly Sampled Or Missing Valued Time-Series Data Using LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, <https://arxiv.org/abs/2005.12005>, June 2020.
+
 ## Education
 
 * **MSc Electrical and Electronics Engineering, Bilkent University**, Ankara Turkey, August 2019 - Present, **Supervisor:** Prof. Suleyman Serdar Kozat, **GPA:** 3.85
