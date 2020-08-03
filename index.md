@@ -12,6 +12,10 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
 * **O. Karaahmetoglu**, F. Ilhan, I. Balaban, S. S. Kozat, "Unsupervised Online Anomaly Detection On Irregularly Sampled Or Missing Valued Time-Series Data Using LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, <https://arxiv.org/abs/2005.12005>, June 2020.
 
+* **O. Karaahmetoglu**, S. F. Tekin, S. S. Kozat, "Distributed Online Multi-Target Tracking With Switching LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, July 2020.
+
+* **O. Karaahmetoglu**, S. S. Kozat, "Nonstationary Time-Series Data Modeling With Switching Point Processes", (Submitted to **IEEE Transactions on Signal Processing**), July 2020.
+
 ## Education
 
 * **MSc Electrical and Electronics Engineering, Bilkent University**, Ankara Turkey, August 2019 - Present, **Supervisor:** Prof. Suleyman Serdar Kozat, **GPA:** 3.85
