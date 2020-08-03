@@ -69,7 +69,7 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 [comment]: <> ([![alt text][2.1]][2])
 [comment]: <> ([![alt text][3.1]][3])
 [comment]: <> ([![alt text][4.1]][4])
-[![alt text][5.1 =100x20]][5]
+[![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
 <!-- icons with padding -->
@@ -78,7 +78,7 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/0IdggSZ.png (dribbble icon with padding)
+[5.1]: http://i.imgur.com/0IdggSZ.png=100x20 (linkedin icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- links to your social media accounts -->
