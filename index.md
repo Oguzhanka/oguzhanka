@@ -61,6 +61,6 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 * **Undergraduate Researcher**, Bilkent University, Ankara, Turkey September 2017 - August 2019
   * Online anomaly detection on non-stationary time series data
 
-## Projects
+## CV
 
-* 
+[CV](cv.md)
