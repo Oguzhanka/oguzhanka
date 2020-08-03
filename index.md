@@ -69,7 +69,7 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 [comment]: <> ([![alt text][2.1]][2])
 [comment]: <> ([![alt text][3.1]][3])
 [comment]: <> ([![alt text][4.1]][4])
-[![alt text][5.1]][5]
+[![alt text][5.1 =100x20]][5]
 [![alt text][6.1]][6]
 
 <!-- icons with padding -->
