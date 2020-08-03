@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Oguzhan Karaahmetoglu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scşentist"
+  bio              : "Data Scientist"
   location         : 
   employer         : 
   email            : "oguzhan.karaahmetoglu@hotmail.com"
@@ -120,7 +120,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "www.linkedin.com/in/oguzhan-karaahmetoglu"
   googlescholar    : 
   pinterest        :
   soundcloud       :
