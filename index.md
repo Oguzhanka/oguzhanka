@@ -78,7 +78,7 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/0IdggSZ.png=100x20 (linkedin icon with padding)
+[5.1]: http://i.imgur.com/0IdggSZ.png=20x20 (linkedin icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- links to your social media accounts -->
@@ -88,7 +88,7 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 [2]: http://www.facebook.com/sednaoui
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[5]: http://linkedin.com/oguzhankaraahmetoglu
+[6]: http://www.github.com/Oguzhanka
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
