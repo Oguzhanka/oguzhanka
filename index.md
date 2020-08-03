@@ -65,30 +65,11 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
 [CV](cv.md)
 
-[comment]: <> ([![alt text][1.1]][1])
-[comment]: <> ([![alt text][2.1]][2])
-[comment]: <> ([![alt text][3.1]][3])
-[comment]: <> ([![alt text][4.1]][4])
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/0IdggSZ.png=20x20 (linkedin icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://linkedin.com/oguzhankaraahmetoglu
-[6]: http://www.github.com/Oguzhanka
+[comment]: <> ([![alt text][http://i.imgur.com/tXSoThF.png]][http://www.twitter.com/carlsednaoui])
+[comment]: <> ([![alt text][http://i.imgur.com/P3YfQoD.png]][http://www.facebook.com/sednaoui])
+[comment]: <> ([![alt text][http://i.imgur.com/yCsTjba.png]][https://plus.google.com/+CarlSednaoui])
+[comment]: <> ([![alt text][http://i.imgur.com/YckIOms.png]][http://carlsed.tumblr.com])
+[![alt text][http://i.imgur.com/0IdggSZ.png]][http://linkedin.com/oguzhankaraahmetoglu]
+[![alt text][http://i.imgur.com/0o48UoR.png]][http://www.github.com/Oguzhanka]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
