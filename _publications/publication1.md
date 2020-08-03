@@ -1,5 +1,5 @@
 ---
-title: "Spatio-temporal Sequence Prediction with Point Processes and Self-organizing Decision Trees"
+title: "Publication 1"
 collection: publications
 permalink: /publications/publication1
 excerpt: "We did some things and then published them."
@@ -16,7 +16,7 @@ This is what I did!
 ## Abstract
 Super details
 
-[Download paper here](https://arxiv.org/abs/2006.14426))
+[Download paper here](https://www.paper.link/)
 
 ## Recommended citation:
 Name2 et al. "Publication 1", 2012 (Journal 1)
