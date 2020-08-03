@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Homepage"
+title                    : "Oguzhan Karaahmetoglu"
 title_separator          : "-"
 name                     : "Oguzhan Karaahmetoglu"
 description              : "Oguzhan Karaahmetoglu's academic homepage"
@@ -326,12 +326,4 @@ defaults:
     values:
       layout: single-code
       author_profile: true
-
-
-
-
-
-
-
-
 
