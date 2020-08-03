@@ -16,4 +16,10 @@ I love playing Table Tennis aka Ping Pong in my spare time!
 
 # Industrial Experience
 
+* **Databoss Analytics A.S.**, Ankara Turkey, **Data Scientist**, September 2018 - Present,
+  * Using Machine learning and Statistical models to design spatio-temporal forecasting models for various real life applications
+  * Working in a research team to collaboratively share ideas and knowledge about various research topics and development tools.
+  * Developing a spatio-temporal prediction framework for event, weather and energy prediction.
+  * Website: <http://data-boss.com.tr/>
+
 # Projects
