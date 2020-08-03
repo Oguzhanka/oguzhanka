@@ -82,4 +82,11 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 [5]: http://dribbble.com/carlsednaoui
 [6]: http://www.github.com/carlsednaoui
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
