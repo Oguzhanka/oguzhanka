@@ -12,5 +12,4 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
 I love playing Table Tennis aka Ping Pong in my spare time!
 
-
 [Publications](publications.md)
