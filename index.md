@@ -72,7 +72,7 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 [comment]: <> ([![alt text][http://i.imgur.com/0IdggSZ.png]][http://linkedin.com/oguzhankaraahmetoglu])
 [comment]: <> ([![alt text][http://i.imgur.com/0o48UoR.png]][http://www.github.com/Oguzhanka])
 
-[<img src="http://i.imgur.com/0IdggSZ.png">](http://linkedin.com/oguzhankaraahmetoglu)
+[<img src="http://i.imgur.com/0IdggSZ.png" width="20" height="20">](http://linkedin.com/oguzhankaraahmetoglu)
 [<img src="http://i.imgur.com/0o48UoR.png">](http://www.github.com/Oguzhanka)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
