@@ -22,4 +22,12 @@ I love playing Table Tennis aka Ping Pong in my spare time!
   * Developing a spatio-temporal prediction framework for event, weather and energy prediction.
   * Website: <http://data-boss.com.tr/>
 
+* **Databoss Analytics A.S.**, Ankara Turkey, **Intern Engineer**, June 2018 - September 2018,
+  * Design and implementation of an online anomaly detection system.
+  * Website: <http://data-boss.com.tr/>
+
+* **Darkblue Telecommunications**, Ankara, Turkey, June 2017 - September 2017,
+  * Designed a face recognition system based on deep neural architectures.
+  * Website: <http://www.darkbluesystems.com/tr/>
+
 # Projects
