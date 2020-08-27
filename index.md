@@ -69,7 +69,7 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 [comment]: <> ([![alt text][http://i.imgur.com/P3YfQoD.png]][http://www.facebook.com/sednaoui])
 [comment]: <> ([![alt text][http://i.imgur.com/yCsTjba.png]][https://plus.google.com/+CarlSednaoui])
 [comment]: <> ([![alt text][http://i.imgur.com/YckIOms.png]][http://carlsed.tumblr.com])
-[comment]: <> ([![alt text][http://i.imgur.com/0IdggSZ.png]][http://linkedin.com/oguzhankaraahmetoglu])
+[comment]: <> ([![alt text][http://i.imgur.com/0IdggSZ.png]][https://www.linkedin.com/in/oguzhan-karaahmetoglu/])
 [comment]: <> ([![alt text][http://i.imgur.com/0o48UoR.png]][http://www.github.com/Oguzhanka])
 
 [<img src="http://i.imgur.com/0IdggSZ.png" width="30" height="30">](http://linkedin.com/oguzhankaraahmetoglu)
