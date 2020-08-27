@@ -4,8 +4,6 @@ Hi, I am Oguzhan Karaahmetoglu and I am a Data Scientist. Currently, I pursue my
 
 I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
-I am a huge fan of "The Lord of the Rings"
-
 ## Publications
 
 ### Journal Papers
