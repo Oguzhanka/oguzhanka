@@ -18,8 +18,6 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
 * **O. Karaahmetoglu**, S. F. Tekin, S. S. Kozat, "Distributed Online Multi-Target Tracking With Switching LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, July 2020.
 
-* **O. Karaahmetoglu**, S. S. Kozat, "Nonstationary Time-Series Data Modeling With Switching Point Processes", (Submitted to **IEEE Transactions on Signal Processing**), July 2020.
-
 ### Conference Papers
 
 * **O. Karaahmetoglu**, Fatih Irım and S. F. Tekin, "Interpretable Classification And Regression For Time Series Data", (submitted)**IEEE**, 17 January 2020.
@@ -27,6 +25,8 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 * **O. Karaahmetoglu**, and Bilgin Aksoy, "Time Series Prediction With Hierarchical Recurrent Models", (submitted)**IEEE**, 17 January 2020.
 
 ### Working Papers
+
+* **O. Karaahmetoglu**, S. S. Kozat, "Nonstationary Time-Series Data Modeling With Switching Point Processes", (Submitted to **IEEE Transactions on Signal Processing**), July 2020.
 
 * **O. Karaahmetoglu**, S. F. Tekin and S. S. Kozat, "Image Captioning With Location Embeddings and Self Attention Mechanism", (draft available with permission of supervisor), July 2020.
 
