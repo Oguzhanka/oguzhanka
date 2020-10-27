@@ -6,6 +6,10 @@ Hi, I am Oguzhan Karaahmetoglu and I am a Data Scientist. Currently, I pursue my
 
 I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
+## CV
+
+[CV](cv.md)
+
 ## Publications
 
 ### Journal Papers
@@ -61,9 +65,6 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 * **Undergraduate Researcher**, Bilkent University, Ankara, Turkey September 2017 - August 2019
   * Online anomaly detection on non-stationary time series data
 
-## CV
-
-[CV](cv.md)
 
 [comment]: <> ([![alt text][http://i.imgur.com/tXSoThF.png]][http://www.twitter.com/carlsednaoui])
 [comment]: <> ([![alt text][http://i.imgur.com/P3YfQoD.png]][http://www.facebook.com/sednaoui])
