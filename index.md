@@ -2,7 +2,7 @@
 
 ![](/0.jpeg#center)
 
-Hi, I am Oguzhan Karaahmetoglu and I am a Data Scientist. Currently, I pursue my graduate studies at **Bilkent University** under the supervision of **Prof. S. Serdar Kozat**. I am currently employed as a full-time Data Scientist, where I am a part of an R&D team developing a spatio-temporal prediction framework. My research interests include **spatio-temporal prediction**, **online learning**, **point process modeling**, **adaptive filtering** and **big data**.
+Hi, I am Oguzhan Karaahmetoglu and I am a Data Scientist. Currently, I pursue my graduate studies at **Bilkent University** under the supervision of **Prof. S. Serdar Kozat**. I am currently part of an R&D team developing a spatio-temporal prediction framework. My research interests include **spatio-temporal prediction**, **online learning**, **point process modeling**, **adaptive filtering** and **big data**.
 
 I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
@@ -18,19 +18,17 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
 * **O. Karaahmetoglu**, S. F. Tekin, S. S. Kozat, "Distributed Online Multi-Target Tracking With Switching LSTM Networks", (Submitted to **IEEE Transactions on Neural Networks and Learning Systems**, July 2020.
 
+* **O. Karaahmetoglu**, S. S. Kozat, "Nonstationary Time-Series Data Modeling With Switching Point Processes", (draft available with permission of supervisor), July 2020.
+
+* **O. Karaahmetoglu**, S. F. Tekin and S. S. Kozat, "Image Captioning With Location Embeddings and Self Attention Mechanism", (draft available with permission of supervisor), July 2020.
+
+* **O. Karaahmetoglu**, S. F. Tekin and S. S. Kozat, "Strongly Labeled Simulated Data Generation For Object Recognition Under Different Camera Positions", (draft available with permission of supervisor), July 2020.
+
 ### Conference Papers
 
 * **O. Karaahmetoglu**, Fatih Irım and S. F. Tekin, "Interpretable Classification And Regression For Time Series Data", (submitted)**IEEE**, 17 January 2020.
 
 * **O. Karaahmetoglu**, and Bilgin Aksoy, "Time Series Prediction With Hierarchical Recurrent Models", (submitted)**IEEE**, 17 January 2020.
-
-### Working Papers
-
-* **O. Karaahmetoglu**, S. S. Kozat, "Nonstationary Time-Series Data Modeling With Switching Point Processes", (Submitted to **IEEE Transactions on Signal Processing**), July 2020.
-
-* **O. Karaahmetoglu**, S. F. Tekin and S. S. Kozat, "Image Captioning With Location Embeddings and Self Attention Mechanism", (draft available with permission of supervisor), July 2020.
-
-* **O. Karaahmetoglu**, S. F. Tekin and S. S. Kozat, "Strongly Labeled Simulated Data Generation For Object Recognition Under Different Camera Positions", (draft available with permission of supervisor), July 2020.
 
 ## Education
 
