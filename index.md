@@ -8,7 +8,7 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
 ## CV
 
-[CV](cv.md)
+[CV]("https://github.com/Oguzhanka/oguzhanka/blob/master/cv.pdf")
 
 ## Publications
 
