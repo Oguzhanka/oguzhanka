@@ -71,15 +71,8 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 * **Undergraduate Researcher**, Bilkent University, Ankara, Turkey September 2017 - August 2019
   * Online anomaly detection on non-stationary time series data
 
+## 
 
-[comment]: <> ([![alt text][http://i.imgur.com/tXSoThF.png]][http://www.twitter.com/carlsednaoui])
-[comment]: <> ([![alt text][http://i.imgur.com/P3YfQoD.png]][http://www.facebook.com/sednaoui])
-[comment]: <> ([![alt text][http://i.imgur.com/yCsTjba.png]][https://plus.google.com/+CarlSednaoui])
-[comment]: <> ([![alt text][http://i.imgur.com/YckIOms.png]][http://carlsed.tumblr.com])
-[comment]: <> ([![alt text][http://i.imgur.com/0IdggSZ.png]][https://www.linkedin.com/in/oguzhan-karaahmetoglu/])
-[comment]: <> ([![alt text][http://i.imgur.com/0o48UoR.png]][http://www.github.com/Oguzhanka])
+* **LinkedIn** https://www.linkedin.com/in/oguzhan-karaahmetoglu/
+* **Github** http://www.github.com/Oguzhanka
 
-[<img src="http://i.imgur.com/0IdggSZ.png" width="30" height="30">](https://www.linkedin.com/in/oguzhan-karaahmetoglu/)
-[<img src="http://i.imgur.com/0o48UoR.png">](http://www.github.com/Oguzhanka)
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
