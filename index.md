@@ -2,7 +2,7 @@
 
 ![](/0.jpeg#center)
 
-Hi, I am Oguzhan Karaahmetoglu and I am a Data Scientist. Currently, I pursue my graduate studies at **Bilkent University** under the supervision of **Prof. S. Serdar Kozat**. I am currently part of an R&D team developing a spatio-temporal prediction framework. My research interests include **spatio-temporal prediction**, **online learning**, **point process modeling**, **adaptive filtering** and **big data**.
+Hi, I am Oguzhan Karaahmetoglu, and I am a Data Scientist. Currently, I pursue my graduate studies at **Bilkent University** under the supervision of **Prof. S. Serdar Kozat**. I am currently part of an R&D team developing a spatio-temporal prediction framework. My research interests include **spatio-temporal prediction**, **online learning**, **point process modeling**, **adaptive filtering**, and **big data**.
 
 I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
