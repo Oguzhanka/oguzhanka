@@ -34,6 +34,12 @@ I am most skilled in: <mark>Python</mark> and <mark>PyTorch</mark>
 
 * **O. Karaahmetoglu**, and Bilgin Aksoy, "Time Series Prediction With Hierarchical Recurrent Models", (submitted)**IEEE**, 17 January 2020.
 
+## Patents
+
+* **O. Karaahmetoglu**, F. Ilhan, S. F. Tekin, I. Balaban and S. S. Kozat, “Spatio-temporal Sparse Event Prediction with Hierarchical Expert Models”, Turkish Patent, 2020.
+*	**O. Karaahmetoglu**, F. Ilhan, S. F. Tekin, I. Balaban and S. S. Kozat, “Energy Consumption Forecasting with Time Series Clustering”, Turkish Patent, 2020.
+*	**O. Karaahmetoglu**, F. Ilhan, S. F. Tekin, I. Balaban and S. S. Kozat, “Crime Analysis Tool for Spatio-temporal and Contextual Link Interpretability”, Turkish Patent, 2020.
+
 ## Education
 
 * **MSc Electrical and Electronics Engineering, Bilkent University**, Ankara Turkey, August 2019 - Present, **Supervisor:** Prof. Suleyman Serdar Kozat, **GPA:** 3.85
